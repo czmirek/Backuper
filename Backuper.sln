@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backuper.Library", "Backuper.Library\Backuper.Library.csproj", "{6C4A497E-5F70-40CA-A3B6-D92AF6CC36B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backuper.Console", "Backuper.Console\Backuper.Console.csproj", "{0A6698DC-2305-45D2-BC80-23EE6B220786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4A497E-5F70-40CA-A3B6-D92AF6CC36B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4A497E-5F70-40CA-A3B6-D92AF6CC36B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4A497E-5F70-40CA-A3B6-D92AF6CC36B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4A497E-5F70-40CA-A3B6-D92AF6CC36B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6698DC-2305-45D2-BC80-23EE6B220786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6698DC-2305-45D2-BC80-23EE6B220786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6698DC-2305-45D2-BC80-23EE6B220786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6698DC-2305-45D2-BC80-23EE6B220786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63892819-7EAD-4E95-8276-75DBEEAE5750}
+	EndGlobalSection
+EndGlobal

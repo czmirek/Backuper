@@ -1,2 +1,2 @@
 # Backuper
-Simple console app for creating backups
+Simple and extensible console app for creating backups
