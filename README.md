@@ -18,9 +18,11 @@ and automatically removes old backups.
 Backuper uses [NLog](http://nlog-project.org/) to automatically log its progress to files. 
 Fatal errors are emailed. See `NLog.config`.
 
-##Backuper configuration
+## Configuration
 
-```json
+See `Backuper.Console/backuper-config.json`
+
+```javascript
 // ----------------------------------------
 // Configuration file for Backuper.
 // ----------------------------------------
@@ -95,4 +97,5 @@ Fatal errors are emailed. See `NLog.config`.
       }
     }
   ]
-}```
+}
+```
